@@ -1,4 +1,4 @@
-package xor
+package cmd
 
 import "testing"
 

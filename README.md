@@ -5,5 +5,5 @@ Go File XOR 👆🤓
 ## Usage
 
 ```bash
-$ go install github.com/liuyuhe666/go-file-xor/cmd/xor@latest
+$ go install github.com/liuyuhe666/go-file-xor@latest
 ```

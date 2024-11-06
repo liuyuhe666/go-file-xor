@@ -1,4 +1,4 @@
-package xor
+package cmd
 
 func Xor(raw, secret []byte) (result []byte) {
 	result = make([]byte, len(raw))
