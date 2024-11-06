@@ -11,7 +11,7 @@ import (
 const secretKey = "XOR_SECRET"
 
 var rootCmd = &cobra.Command{
-	Use:   "xor <filename>",
+	Use:   "go-file-xor <filename>",
 	Short: "go file xor",
 	Run: func(cmd *cobra.Command, args []string) {
 		if len(args) != 1 {
