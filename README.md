@@ -44,18 +44,16 @@ Flags:
   -h, --help   help for go-file-xor
 ```
 
-以下使用 `Windows` 系统来演示，其他操作系统类似:
-
 XOR 加密:
 
-```ps1
-./go-file-xor.exe test.txt
+```bash
+go-file-xor test.txt
 ```
 
 XOR 解密:
 
-```ps1
-./go-file-xor.exe test.txt.xor
+```bash
+go-file-xor test.txt.xor
 ```
 
 ## 作者
